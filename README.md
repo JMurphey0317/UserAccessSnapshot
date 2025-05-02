@@ -15,7 +15,3 @@ Deploy using SFDX:
 ## Components
 - LWC: `userAccessSnapshot`
 - Apex: `UserAccessController`
-
-## License
-MIT
-    
